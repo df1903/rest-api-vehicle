@@ -1,0 +1,19 @@
+{
+  "name": "rest_api_vehicle",
+  "version": "1.0.0",
+  "description": "Rest Api for App relation within Vehicle and Owner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/df1903/rest_api_vehicle.git"
+  },
+  "author": "Lina Nieto, Kevin Lopez, Daniel Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/df1903/rest_api_vehicle/issues"
+  },
+  "homepage": "https://github.com/df1903/rest_api_vehicle#readme"
+}
