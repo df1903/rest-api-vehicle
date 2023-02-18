@@ -1,5 +1,14 @@
 {
-  "db-connections": {
-    "mongodb": {}
-  }
+    "db-connections": {
+        "mongodb": {
+            "host": "cluster0.u5mygnv.mongodb.net",
+            "user": "admin",
+            "password": "admin",
+            "dbname": "Test-Vehicle-Apirest"
+        }
+    },
+    "secretKeys": {
+        "cryptojs": "IuoWW8948dgm"
+    },
+    "server-port": 3001
 }
